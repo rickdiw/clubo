@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useRef, useCallback } from 'react'
+import { useState, useRef, useCallback, useEffect } from 'react'
 
 function formatSize(bytes) {
   if (!bytes) return '0 KB'
@@ -132,7 +132,11 @@ export default function ImageCompress() {
 
   const clearAll = () => { setFiles([]); setActiveTab(null) }
 
-  if (!canvasRef.current) canvasRef.current = document.createElement('canvas')
+  useEffect(() => {
+    if (typeof document !== 'undefined' && !canvasRef.current) {
+      canvasRef.current = document.createElement('canvas')
+    }
+  }, [])
 
   return (
     <div>
