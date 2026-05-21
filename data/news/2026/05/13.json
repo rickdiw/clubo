@@ -1,0 +1,225 @@
+{
+  "date": "2026-05-13",
+  "updatedAt": "2026-05-13T00:05:00.000Z",
+  "totalCount": 30,
+  "stats": {
+    "weibo": { "name": "微博热搜", "count": 7 },
+    "zhihu": { "name": "知乎热榜", "count": 6 },
+    "baidu": { "name": "百度热搜", "count": 4 },
+    "toutiao": { "name": "今日头条", "count": 5 },
+    "tencent": { "name": "腾讯新闻", "count": 5 },
+    "netease": { "name": "网易新闻", "count": 3 }
+  },
+  "items": [
+    {
+      "title": "安徽确诊一例输入性猴痘病例，疾控中心：不用过度恐慌",
+      "summary": "境外输入病例已在定点医院隔离治疗，密接人员均已追踪到位",
+      "url": "https://www.baidu.com/s?wd=猴痘病例",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "健康", "hotScore": 10850000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "俄乌冲突最新进展：双方在土耳其重启和谈",
+      "summary": "中方派特使参与斡旋，国际社会期待和平曙光",
+      "url": "https://www.toutiao.com/trending/20260513A01",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "国际", "hotScore": 9850000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "朋友圈谣言治理升级：微信推出AI事实核查功能",
+      "summary": "用户分享链接时AI自动核查事实，标记可疑信息",
+      "url": "https://s.weibo.com/weibo?q=微信AI事实核查",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "科技", "hotScore": 9120000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "35岁危机是伪命题？猎聘报告显示35+求职者薪资逆势上涨",
+      "summary": "最新招聘数据：35岁以上人群平均薪资涨幅超过年轻群体",
+      "url": "https://www.zhihu.com/question/626051900",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "职场", "hotScore": 8760000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "演员高亚麟被曝家暴出轨：工作室紧急发声明否认",
+      "summary": "知名演员妻子微博发文控诉引发舆论风暴",
+      "url": "https://s.weibo.com/weibo?q=高亚麟家暴",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "娱乐", "hotScore": 8250000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "C919大飞机获欧洲适航证：国产大飞机走出国门",
+      "summary": "中国商飞C919获EASA颁发的型号合格证，可进入欧洲市场",
+      "url": "https://new.qq.com/rain/a/20260513A01",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "时政", "hotScore": 7850000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "退休年龄或再延长？人社部回应：正在研究渐进式延迟退休方案",
+      "summary": "延迟退休政策持续引发关注，或采取每年推迟几个月的渐进方式",
+      "url": "https://www.toutiao.com/trending/20260513A02",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "时政", "hotScore": 7450000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "《庆余年3》预告片释出：范闲归来，陈道明李沁同台飙戏",
+      "summary": "张若昀发文确认回归，第三季将作为终章为故事画上句号",
+      "url": "https://s.weibo.com/weibo?q=庆余年3预告",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "娱乐", "hotScore": 7120000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "新能源汽车充电费或将大幅下调：国家电网出台新电价政策",
+      "summary": "充电服务费最高降幅达50%，电动车用车成本进一步降低",
+      "url": "https://www.baidu.com/s?wd=充电费下调",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "汽车", "hotScore": 6890000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "李佳琦回归直播：时隔一年复出，首场销售额破10亿",
+      "summary": "退网一年后低调复出，直播间在线人数突破2000万",
+      "url": "https://new.qq.com/rain/a/20260513A02",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "电商", "hotScore": 6540000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "有哪些看似不起眼但月入过万的小生意？",
+      "summary": "网友分享：摆摊卖淀粉肠、上门喂猫、旧物翻新等副业的真实收入",
+      "url": "https://www.zhihu.com/question/626051901",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "生活", "hotScore": 6320000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "杭州亚运会开幕式演练：无人机表演队形曝光",
+      "summary": "5000架无人机将组成杭州亚运会会徽和西湖十景",
+      "url": "https://www.toutiao.com/trending/20260513A03",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "体育", "hotScore": 5980000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "清华大学成立「AI伦理学院」：文理交叉培养AI治理人才",
+      "summary": "全球首个专注AI伦理治理的学院，首批计划招生120人",
+      "url": "https://www.baidu.com/s?wd=清华AI伦理学院",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "教育", "hotScore": 5670000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "云南大理古城客栈老板打游客事件持续发酵：官方通报处理结果",
+      "summary": "涉事客栈被吊销营业执照，老板被行拘15日",
+      "url": "https://s.weibo.com/weibo?q=大理客栈打人",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "旅游", "hotScore": 5430000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "比特币价格深夜暴跌20%：24小时爆仓超100亿美元",
+      "summary": "美联储鹰派言论引发加密货币市场恐慌性抛售",
+      "url": "https://new.qq.com/rain/a/20260513A03",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "财经", "hotScore": 5210000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "家长联名要求取消小学生手抄报作业：太费家长了！",
+      "summary": "教育局回应将研究减轻学生和家长负担的具体措施",
+      "url": "https://c.m.163.com/news/a/20260513A01.html",
+      "source": "网易新闻", "sourceId": "netease", "sourceIcon": "📡",
+      "category": "教育", "hotScore": 4980000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "全国离婚冷静期实施三周年：离婚率下降但复婚率翻倍",
+      "summary": "民政部数据：冷静期制度使冲动离婚减少，但也带来新问题",
+      "url": "https://www.zhihu.com/question/626051902",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "社会", "hotScore": 4750000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "《披荆斩棘的哥哥》第四季阵容官宣：刘畊宏张智霖回归",
+      "summary": "33位哥哥全新阵容曝光，黄渤担任主持人",
+      "url": "https://s.weibo.com/weibo?q=披哥第四季",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "娱乐", "hotScore": 4530000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "最新人口数据：广东常住人口突破1.5亿稳居全国第一",
+      "summary": "广东连续18年蝉联人口第一大省，深圳人口增幅最大",
+      "url": "https://www.toutiao.com/trending/20260513A04",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "社会", "hotScore": 4380000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "预制菜进校园引争议：多地家长联名抵制，要求现炒现做",
+      "summary": "校园食品安全再成焦点，教育部要求学校食堂优先采用现场制作",
+      "url": "https://c.m.163.com/news/a/20260513A02.html",
+      "source": "网易新闻", "sourceId": "netease", "sourceIcon": "📡",
+      "category": "教育", "hotScore": 4150000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "猫一杯事件二审宣判：维持原判，网红因编造虚假信息获刑",
+      "summary": "自媒体造谣炒作案典型判决，震慑网络虚假信息传播",
+      "url": "https://s.weibo.com/weibo?q=猫一杯事件",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "社会", "hotScore": 3980000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "万达商管集团完成债务重组：王健林称「最困难的时期过去了」",
+      "summary": "万达与投资人达成协议，年内将处置部分海外资产回笼资金",
+      "url": "https://new.qq.com/rain/a/20260513A04",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "财经", "hotScore": 3750000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "「00后女生做殡葬师月入5万」：冷门高薪职业引发关注",
+      "summary": "殡葬行业人才缺口巨大，越来越多年​轻人愿意加入",
+      "url": "https://www.zhihu.com/question/626051903",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "职场", "hotScore": 3580000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "日本福岛海域再次发生6.5级地震，暂无海啸预警",
+      "summary": "地震发生在福岛县近海，东京有震感，核电站运行正常",
+      "url": "https://www.baidu.com/s?wd=福岛地震",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "国际", "hotScore": 3420000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "二线城市「抢人大战」升级：杭州成都送房送户口抢人才",
+      "summary": "新一线城市人才争夺白热化，应届博士生安家费最高给200万",
+      "url": "https://www.toutiao.com/trending/20260513A05",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "社会", "hotScore": 3250000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "广州女子吃麻辣烫吃出蟑螂索赔：法院判商家赔偿1000元",
+      "summary": "食品安全维权案例：消费者拍照留证后成功维权",
+      "url": "https://c.m.163.com/news/a/20260513A03.html",
+      "source": "网易新闻", "sourceId": "netease", "sourceIcon": "📡",
+      "category": "社会", "hotScore": 3080000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "知乎高赞：如何用AI提高工作效率？这些免费工具太实用了",
+      "summary": "从写周报到做PPT，盘点10个在日常工作中真正好用的AI工具",
+      "url": "https://www.zhihu.com/question/626051904",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "科技", "hotScore": 2920000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "腾讯宣布微信支付全面接入香港八达通系统",
+      "summary": "内地游客到香港可直接用微信支付乘坐公共交通",
+      "url": "https://new.qq.com/rain/a/20260513A05",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "科技", "hotScore": 2750000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "大妈在西湖边拍短视频被保安驱赶引冲突，景区回应",
+      "summary": "杭州西湖景区规定禁止商业拍摄，大妈称只是拍着玩",
+      "url": "https://s.weibo.com/weibo?q=西湖大妈拍视频",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "旅游", "hotScore": 2580000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "职场上被领导PUA怎么办？知乎大神分享5个反PUA话术",
+      "summary": "职场心理健康话题引发共鸣，学会识别和应对职场PUA",
+      "url": "https://www.zhihu.com/question/626051905",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "职场", "hotScore": 2350000, "fetchedAt": "2026-05-13T00:00:00.000Z"
+    }
+  ]
+}

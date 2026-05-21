@@ -1,0 +1,211 @@
+{
+  "date": "2026-05-12",
+  "updatedAt": "2026-05-12T00:08:00.000Z",
+  "totalCount": 28,
+  "stats": {
+    "weibo": { "name": "微博热搜", "count": 6 },
+    "zhihu": { "name": "知乎热榜", "count": 6 },
+    "baidu": { "name": "百度热搜", "count": 4 },
+    "toutiao": { "name": "今日头条", "count": 5 },
+    "tencent": { "name": "腾讯新闻", "count": 4 },
+    "netease": { "name": "网易新闻", "count": 3 }
+  },
+  "items": [
+    {
+      "title": "DeepSeek发布R2模型：训练成本仅为GPT-4的1/50",
+      "summary": "国产大模型再突破，DeepSeek R2在多项基准测试中超越GPT-4",
+      "url": "https://www.toutiao.com/trending/20260512A01",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "科技", "hotScore": 11250000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "SpaceX星舰成功实现首次载人火星往返：4名宇航员安全返回",
+      "summary": "马斯克：2030年送人类移民火星的计划照常推进",
+      "url": "https://s.weibo.com/weibo?q=星舰火星往返",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "科技", "hotScore": 10580000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "许家印案今日开庭：涉嫌非法集资和挪用资金等多项罪名",
+      "summary": "恒大集团前董事长被检察机关提起公诉，涉案金额巨大",
+      "url": "https://new.qq.com/rain/a/20260512A01",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "时政", "hotScore": 9850000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "张继科已出任某省队教练：正式回归乒乓球界",
+      "summary": "前大满贯得主沉寂两年后低调复出，粉丝表示支持",
+      "url": "https://s.weibo.com/weibo?q=张继科当教练",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "体育", "hotScore": 9250000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "月薪两万却不敢生孩子：生养一个孩子到底要花多少钱？",
+      "summary": "养娃成本大调查引热议，一线城市从怀孕到大学需花费约200万",
+      "url": "https://www.zhihu.com/question/626052000",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "社会", "hotScore": 8850000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "多地暴雨引发山洪泥石流：云南贵州紧急转移50万人",
+      "summary": "西南地区遭遇持续强降雨，国家防总赴一线指导防汛",
+      "url": "https://www.baidu.com/s?wd=暴雨山洪泥石流",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "社会", "hotScore": 8250000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "西安地铁试运行时脱轨：官方通报系调试故障，无人伤亡",
+      "summary": "地铁8号线试运行期间发生意外，已暂停测试进行调查",
+      "url": "https://www.toutiao.com/trending/20260512A02",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "社会", "hotScore": 7850000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "探鱼、太二酸菜鱼接连被曝使用回锅油：品牌方紧急回应",
+      "summary": "餐饮行业食品安全引关注，涉事门店已被依法查封",
+      "url": "https://c.m.163.com/news/a/20260512A01.html",
+      "source": "网易新闻", "sourceId": "netease", "sourceIcon": "📡",
+      "category": "生活", "hotScore": 7450000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "微信上线「微信分期」功能：最高额度20万，分期手续费低至0.5%",
+      "summary": "微信支付推出新信贷产品，支付时可直接选择分期付款",
+      "url": "https://s.weibo.com/weibo?q=微信分期",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "财经", "hotScore": 7120000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "高考倒计时20天：全国各地模拟卷真题合集分享",
+      "summary": "知乎教育话题下最全2026高考备考资料汇总，覆盖各省市模拟卷",
+      "url": "https://www.zhihu.com/question/626052001",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "教育", "hotScore": 6890000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "鸿蒙PC版正式发布！华为宣布全场景操作系统实现统一",
+      "summary": "HarmonyOS PC版可运行安卓和Windows应用，生态兼容性重大突破",
+      "url": "https://www.toutiao.com/trending/20260512A03",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "科技", "hotScore": 6540000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "原神动画PV全球首曝：由UFOtable制作，画质炸裂",
+      "summary": "米哈游与日本顶级动画公司UFOtable合作，游戏改编动画定档暑期",
+      "url": "https://s.weibo.com/weibo?q=原神动画PV",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "游戏", "hotScore": 6320000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "22岁女生入职华为年薪百万：天才少年计划又招到天才",
+      "summary": "华为天才少年项目第8期录取名单公布，最年轻入选者仅22岁",
+      "url": "https://new.qq.com/rain/a/20260512A02",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "教育", "hotScore": 5980000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "医生提醒：长期熬夜后补觉无法修复大脑损伤",
+      "summary": "睡眠不足对大脑的损害不可逆，规律作息才是健康之道",
+      "url": "https://www.baidu.com/s?wd=熬夜大脑损伤",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "健康", "hotScore": 5670000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "女子被AI换脸造黄谣报警：嫌疑人是前男友，已被刑拘",
+      "summary": "AI技术滥用引发隐私安全担忧，相关部门表态将加强监管",
+      "url": "https://www.zhihu.com/question/626052002",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "社会", "hotScore": 5430000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "美团外卖宣布与DeepSeek合作：AI助手帮你推荐今天吃什么",
+      "summary": "外卖软件内测AI点餐功能，根据用户口味和预算智能推荐",
+      "url": "https://www.toutiao.com/trending/20260512A04",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "科技", "hotScore": 5210000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "特斯拉Model 2发布：售价不到15万，续航突破800公里",
+      "summary": "Model 2定位入门级市场，搭载4680电池和HW5.0自动驾驶芯片",
+      "url": "https://s.weibo.com/weibo?q=特斯拉Model2",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "汽车", "hotScore": 4980000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "非遗文化热潮：年轻人学花丝镶嵌、景泰蓝成周末新爱好",
+      "summary": "95后00后发文：「做手工艺品比刷短视频上瘾」",
+      "url": "https://c.m.163.com/news/a/20260512A02.html",
+      "source": "网易新闻", "sourceId": "netease", "sourceIcon": "📡",
+      "category": "文化", "hotScore": 4760000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "中国女篮获世界杯亚军：决赛惜败美国队，全国球迷致敬",
+      "summary": "中国女篮创造历史最佳战绩，姚明现场观战感动落泪",
+      "url": "https://new.qq.com/rain/a/20260512A03",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "体育", "hotScore": 4530000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "这届年轻人为什么集体迷恋「老年生活方式」？",
+      "summary": "30岁开始泡茶、练八段锦、听戏，低欲望生活正在蔓延",
+      "url": "https://www.zhihu.com/question/626052003",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "生活", "hotScore": 4380000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "2026年全球经济展望：IMF上调中国GDP增速预测至5.2%",
+      "summary": "国际货币基金组织发布最新世界经济展望，中国成为亮点",
+      "url": "https://www.baidu.com/s?wd=IMF中国经济预测",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "财经", "hotScore": 4150000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "五一假期即将到来：全国热门景区预约已满，民宿一房难求",
+      "summary": "文旅部提醒游客提前预约错峰出行，预计出行人次将超历史纪录",
+      "url": "https://www.toutiao.com/trending/20260512A05",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "旅游", "hotScore": 3980000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "国家卫健委：二价HPV疫苗将纳入全国免费接种计划",
+      "summary": "9-14岁女生可免费接种二价HPV疫苗，覆盖全国所有省份",
+      "url": "https://new.qq.com/rain/a/20260512A04",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "健康", "hotScore": 3750000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "南方多地遭遇回南天：墙壁发霉地板出水，网友直呼太崩溃",
+      "summary": "广东广西等地回南天持续一周，除湿机销售额暴涨300%",
+      "url": "https://s.weibo.com/weibo?q=回南天",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "生活", "hotScore": 3580000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "「躺平」三年后，那些年轻人怎么样了？",
+      "summary": "深度调查：一些人找到了新方向，一些人陷入了更深的焦虑",
+      "url": "https://www.zhihu.com/question/626052004",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "社会", "hotScore": 3420000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "比亚迪发布飞行汽车：可实现100公里空中通勤，售价49.9万",
+      "summary": "搭载固态电池的eVTOL飞行汽车在上海车展全球首发",
+      "url": "https://www.baidu.com/s?wd=比亚迪飞行汽车",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "汽车", "hotScore": 3250000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "小学生研究「抗癌食物」获全国科技奖引争议：是天才还是造假？",
+      "summary": "评审委员会回应将重新审核该项目的独立完成情况",
+      "url": "https://c.m.163.com/news/a/20260512A03.html",
+      "source": "网易新闻", "sourceId": "netease", "sourceIcon": "📡",
+      "category": "教育", "hotScore": 3080000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    },
+    {
+      "title": "你会为「情绪价值」买单吗？从捏捏乐到塔罗牌，解压经济爆发",
+      "summary": "年轻人每年为情绪消费超3000元，新的消费趋势正在形成",
+      "url": "https://www.zhihu.com/question/626052005",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "生活", "hotScore": 2920000, "fetchedAt": "2026-05-12T00:00:00.000Z"
+    }
+  ]
+}

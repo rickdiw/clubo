@@ -1,0 +1,225 @@
+{
+  "date": "2026-05-14",
+  "updatedAt": "2026-05-14T00:06:00.000Z",
+  "totalCount": 30,
+  "stats": {
+    "weibo": { "name": "微博热搜", "count": 6 },
+    "zhihu": { "name": "知乎热榜", "count": 6 },
+    "baidu": { "name": "百度热搜", "count": 5 },
+    "toutiao": { "name": "今日头条", "count": 5 },
+    "tencent": { "name": "腾讯新闻", "count": 5 },
+    "netease": { "name": "网易新闻", "count": 3 }
+  },
+  "items": [
+    {
+      "title": "台风「莲花」登陆广东：中心风力达15级，紧急转移120万人",
+      "summary": "今年首个超强台风正面袭击珠三角，多地停工停课",
+      "url": "https://www.baidu.com/s?wd=台风莲花",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "社会", "hotScore": 11850000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "缅北电诈头目被押解回国：涉案金额超500亿元",
+      "summary": "中缅联合执法取得重大突破，抓获电诈集团核心成员42人",
+      "url": "https://s.weibo.com/weibo?q=缅北电诈头目",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "社会", "hotScore": 10650000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "清华北大同时宣布取消本科招生面试环节",
+      "summary": "全面推行纯笔试录取制度，强调公平公正，引发社会各界热议",
+      "url": "https://www.toutiao.com/trending/20260514A01",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "教育", "hotScore": 9850000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "黄晓明和Angelababy被拍到带儿子同游迪士尼",
+      "summary": "离婚后首度同框，网友猜测是否复合",
+      "url": "https://s.weibo.com/weibo?q=黄晓明同游迪士尼",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "娱乐", "hotScore": 9250000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "泰国永久免签首日：中国游客机场排长队，有人带宠物猫旅游",
+      "summary": "免签实施首批游客体验：出关仅需3分钟，旅游团订单暴增500%",
+      "url": "https://www.toutiao.com/trending/20260514A02",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "旅游", "hotScore": 8850000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "苹果宣布将在印度生产iPhone 18，中国供应链何去何从？",
+      "summary": "苹果供应链加速多元化布局，富士康印度工厂已有3万工人",
+      "url": "https://www.zhihu.com/question/626051800",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "财经", "hotScore": 8250000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "突发：四川甘孜州发生6.8级地震，已有房屋倒塌报告",
+      "summary": "震源深度15公里，成都重庆等多地震感强烈",
+      "url": "https://new.qq.com/rain/a/20260514A01",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "社会", "hotScore": 7950000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "国际奥委会宣布电竞正式成为2028洛杉矶奥运会比赛项目",
+      "summary": "英雄联盟、CS3等5款游戏入选，电竞入奥梦想成真",
+      "url": "https://s.weibo.com/weibo?q=电竞入奥",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "体育", "hotScore": 7450000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "全国多地推行「医保全家共济」：一人参保全家可用",
+      "summary": "医保政策重大改革，职工医保个人账户资金可与配偶子女父母共用",
+      "url": "https://www.toutiao.com/trending/20260514A03",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "时政", "hotScore": 7120000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "为什么越来越多年轻人选择「数字游民」生活方式？",
+      "summary": "远程办公全面普及后，数字游民在中国兴起，边旅游边工作成新趋势",
+      "url": "https://www.zhihu.com/question/626051801",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "生活", "hotScore": 6890000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "茅台宣布涨价20%：53度飞天茅台一瓶难求现象再加剧",
+      "summary": "茅台集团发布涨价公告，53度飞天茅台出厂价上调至1499元",
+      "url": "https://www.baidu.com/s?wd=茅台涨价",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "财经", "hotScore": 6540000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "张雪峰直播批某高校专业：毕业即失业，学这个不如学修空调",
+      "summary": "考研名师再度炮轰高校专业设置，校方回应称其言论不负责任",
+      "url": "https://s.weibo.com/weibo?q=张雪峰批高校专业",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "教育", "hotScore": 6320000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "烘焙行业大洗牌：好利来、鲍师傅等品牌价格战开打",
+      "summary": "人均消费从50元降至25元，烘焙品牌纷纷降价求生存",
+      "url": "https://new.qq.com/rain/a/20260514A02",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "生活", "hotScore": 5980000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "《流浪地球3》首日票房破8亿：刷新国产电影影史纪录",
+      "summary": "郭帆导演科幻巨制上映首日即打破多项票房纪录，全球同步上映",
+      "url": "https://www.toutiao.com/trending/20260514A04",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "影视", "hotScore": 5670000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "中国男足世预赛2-1逆转日本队，球迷高呼：过年了！",
+      "summary": "武磊梅开二度，国足在世预赛客场击败日本队，创造历史",
+      "url": "https://s.weibo.com/weibo?q=国足逆转日本",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "体育", "hotScore": 5430000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "药品集采新规：部分常用药价格再降70%，患者月省千元",
+      "summary": "第七批国家药品集中采购结果公布，慢性病用药大幅降价",
+      "url": "https://www.baidu.com/s?wd=药品集采降价",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "健康", "hotScore": 5210000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "滴滴宣布接入萝卜快跑无人出租车：一键叫到无人驾驶",
+      "summary": "滴滴出行与百度Apollo达成合作，率先在北上广深四城运营",
+      "url": "https://new.qq.com/rain/a/20260514A03",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "科技", "hotScore": 4980000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "「啃老」还是「全职儿女」？争议背后是老龄化社会的困境",
+      "summary": "专家分析：全国家庭养老负担加重，年轻人被迫做出选择",
+      "url": "https://www.zhihu.com/question/626051802",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "社会", "hotScore": 4760000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "蜂蜜抽检结果公布：多品牌被检出掺糖浆，涉事品牌名单曝光",
+      "summary": "市场监管总局抽检蜂蜜产品，超三成不合格",
+      "url": "https://c.m.163.com/news/a/20260514A01.html",
+      "source": "网易新闻", "sourceId": "netease", "sourceIcon": "📡",
+      "category": "生活", "hotScore": 4530000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "彩礼大幅下降？多地出台规定彩礼不得超过5万元",
+      "summary": "江西、河南等彩礼大省推行婚俗改革，彩礼普遍下降60%",
+      "url": "https://www.toutiao.com/trending/20260514A05",
+      "source": "今日头条", "sourceId": "toutiao", "sourceIcon": "📰",
+      "category": "社会", "hotScore": 4380000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "深圳试行房产「以旧换新」政策：老房子可抵扣新房首付",
+      "summary": "全国首创房产置换政策，旧房评估价可直接抵扣新房房款",
+      "url": "https://new.qq.com/rain/a/20260514A04",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "财经", "hotScore": 4150000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "女子轻生被外卖小哥跳河救起：公司奖励新电动车和现金",
+      "summary": "美团外卖小哥见义勇为引发点赞，公司授予「最美骑手」称号",
+      "url": "https://s.weibo.com/weibo?q=外卖小哥跳河救人",
+      "source": "微博热搜", "sourceId": "weibo", "sourceIcon": "🔥",
+      "category": "社会", "hotScore": 3980000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "AI换脸诈骗案告破：诈骗团伙利用AI冒充公司老板骗取2亿元",
+      "summary": "警方提醒：视频通话也不一定是本人，注意核实身份",
+      "url": "https://www.zhihu.com/question/626051803",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "社会", "hotScore": 3750000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "教育部公布新规：中小学将全面取消早晚自习，还孩子睡眠",
+      "summary": "小学生不早于8:20到校，中学生不早于8:00到校",
+      "url": "https://www.baidu.com/s?wd=取消早晚自习",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "教育", "hotScore": 3580000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "星巴克中国宣布下调价格：拿铁降至22元，回归亲民路线",
+      "summary": "面对瑞幸、库迪等国产咖啡品牌冲击，星巴克被迫降价自保",
+      "url": "https://new.qq.com/rain/a/20260514A05",
+      "source": "腾讯新闻", "sourceId": "tencent", "sourceIcon": "📋",
+      "category": "财经", "hotScore": 3420000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "如何看待「不婚不育」的95后越来越多？",
+      "summary": "调查显示超3成95后表示不打算结婚生子，原因值得深思",
+      "url": "https://www.zhihu.com/question/626051804",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "社会", "hotScore": 3280000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "八旬老人15年捡垃圾供出俩大学生：感动无数网友",
+      "summary": "河南农村八旬老人靠捡废品供养两个孙子读完大学",
+      "url": "https://c.m.163.com/news/a/20260514A02.html",
+      "source": "网易新闻", "sourceId": "netease", "sourceIcon": "📡",
+      "category": "社会", "hotScore": 3050000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "高考倒计时一个月：各地冲刺复习秘籍出炉",
+      "summary": "特级教师分享最后30天高效复习法，家长必看备考指南",
+      "url": "https://www.baidu.com/s?wd=高考倒计时",
+      "source": "百度热搜", "sourceId": "baidu", "sourceIcon": "🔍",
+      "category": "教育", "hotScore": 2920000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "巴菲特股东大会：股神首次表示看好中国股市长期投资",
+      "summary": "巴菲特在年度股东大会上称赞中国经济发展潜力",
+      "url": "https://www.zhihu.com/question/626051805",
+      "source": "知乎热榜", "sourceId": "zhihu", "sourceIcon": "💡",
+      "category": "财经", "hotScore": 2750000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "title": "五一假期结束后首个人流返程高峰：全国铁路单日发送旅客2200万",
+      "summary": "假期返程客流叠加，铁路部门增开临客列车应对出行高峰",
+      "url": "https://c.m.163.com/news/a/20260514A03.html",
+      "source": "网易新闻", "sourceId": "netease", "sourceIcon": "📡",
+      "category": "生活", "hotScore": 2580000, "fetchedAt": "2026-05-14T00:00:00.000Z"
+    }
+  ]
+}
